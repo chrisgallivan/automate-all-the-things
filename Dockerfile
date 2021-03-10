@@ -8,6 +8,8 @@ COPY package*.json ./
 
 RUN npm install
 
+#test
+
 #bundle app source
 COPY . .
 
