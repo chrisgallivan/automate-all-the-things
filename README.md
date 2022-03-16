@@ -1,6 +1,6 @@
 
 
-# automate-all-the-thingssss
+# automate-all-the-thingss
 
 ![](/images/yoda.jfif)
 
